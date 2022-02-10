@@ -40,18 +40,21 @@ I recommend that you follow the [MDN documentation](https://developer.mozilla.or
 ### CSS Animation property
 To get a keyframe works, you must bind the animation to an element. And set what kind of animation you want: 
 * animation-name: the reference animationname set on keyframe.   
-'''animation-name: inner-box-circle'''
+```animation-name: inner-box-circle```
 * animation-duration: duration of the animation.   
-'''animation-duration: 4s'''
+```animation-duration: 4s```
 * animation-timing-function: flow of the animation.   
-'''animation-timing-function: ease'''
+```animation-timing-function: ease```
 * animation-delay: timer delay to start the animation.   
-'''animation-delay: 0s'''
+```animation-delay: 0s```
 * animation-iteration-count: how many times does the animation repeat before it stops.  
-* '''animation-iteration-count: 1'''
-* '''animation-direction: normal'''
-* '''animation-fill-mode: none'''
-* '''animation-play-state: running'''
+* ```animation-iteration-count: 1```
+* ```animation-direction: normal```
+* ```animation-fill-mode: none```
+* ```animation-play-state: running```   
+* And a short-cut:   
+``` animation: animation-name animation-duration animation-timing-function animation-delay animation-iteration-count animation-direction```   
+   
 Again, search on [MDN documentation](https://developer.mozilla.org/es/docs/Web/CSS/animation) for in deep.
 ## Examples of use
 Perfect landing for junior developers who wants learn CSS animation and make fun landings on hers first react apps.
