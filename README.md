@@ -65,4 +65,4 @@ This project take the initial animated logo on react apps and incorpore the fant
 
 ## Other information
 I'm Ausias Bertran, a Full Stack developer from Barcelona in love with CSS. I hope this project encourages and helps other developers try out their own animations.
-You can contact me through my [mail](ausias.bertran@gmail.com), [github](https://github.com/ulldecorb) or [linkedin](https://www.linkedin.com/in/ausias-bertran-23137320b/).
+You can contact me through my mail ausias.bertran@gmail.com, [github](https://github.com/ulldecorb) or [linkedin](https://www.linkedin.com/in/ausias-bertran-23137320b/).
