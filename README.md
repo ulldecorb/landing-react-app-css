@@ -1,5 +1,5 @@
 # Animated react app landing
-Animated full responsive landing for react app.
+Animated full responsive landing for react app.   
 [Open in browser](https://ulldecorb.github.io/landing-react-app-css/)
 
 ## Technologies applied
@@ -40,19 +40,22 @@ The keyframes-selector set percentage of the animation duration. It use 1-100% o
 I recommend that you follow the [MDN documentation](https://developer.mozilla.org/es/docs/Web/CSS/@keyframes) to learn more about the concepts.   
 ### CSS Animation property
 To get a keyframe works, you must bind the animation to an element. And set what kind of animation you want: 
-* animation-name: the reference animationname set on keyframe.   
+* animation-name: The referenced animationname set on keyframe.   
 ```animation-name: inner-box-circle```
-* animation-duration: duration of the animation.   
+* animation-duration: Duration of the animation.   
 ```animation-duration: 4s```
-* animation-timing-function: flow of the animation.   
+* animation-timing-function: Flow of the animation.   
 ```animation-timing-function: ease```
-* animation-delay: timer delay to start the animation.   
+* animation-delay: Timer delay to start the animation.   
 ```animation-delay: 0s```
-* animation-iteration-count: how many times does the animation repeat before it stops.  
-* ```animation-iteration-count: 1```
-* ```animation-direction: normal```
-* ```animation-fill-mode: none```
-* ```animation-play-state: running```   
+* animation-iteration-count: How many times does the animation repeat before it stops.  
+```animation-iteration-count: 1```
+* animation-direction: Specifies whether an animation should be played forwards, backwards or in alternate cycles.    
+```animation-direction: normal```
+* animation-fill-mode: Specifies a style for the target element when the animation is not playing.    
+```animation-fill-mode: none```
+* animation-play-state: Specifies whether the animation is running or paused.     
+```animation-play-state: running```   
 * And a short-cut:   
 ``` animation: animation-name animation-duration animation-timing-function animation-delay animation-iteration-count animation-direction```   
    
