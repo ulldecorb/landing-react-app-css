@@ -1,5 +1,6 @@
 # Animated react app landing
 Animated full responsive landing for react app.
+[Open in browser](https://ulldecorb.github.io/landing-react-app-css/)
 
 ## Technologies applied
 * HTML
